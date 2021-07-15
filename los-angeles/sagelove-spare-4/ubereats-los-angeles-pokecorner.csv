@@ -1,0 +1,6 @@
+name,price_usd,calories,restaurant_name,identifier,sugars_g,cholesterol_mg,protein_g,fiber_g,fat_g,carbohydrates_g,sodium_mg
+REGULAR POKE BOWL,11.99,,POKECORNER,"UBEREATS, LOS ANGELES, CA",,,,,,,
+LARGE POKE BOWL,13.99,,POKECORNER,"UBEREATS, LOS ANGELES, CA",,,,,,,
+UNAGI DON,12.99,,POKECORNER,"UBEREATS, LOS ANGELES, CA",,,,,,,
+UDON,8.99,,POKECORNER,"UBEREATS, LOS ANGELES, CA",,,,,,,
+CALIFORNIA SUSHI ROLL,7.99,,POKECORNER,"UBEREATS, LOS ANGELES, CA",,,,,,,

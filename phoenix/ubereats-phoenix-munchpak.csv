@@ -1,0 +1,8 @@
+name,price_usd,calories,restaurant_name,identifier,sugars_g,cholesterol_mg,protein_g,fiber_g,fat_g,carbohydrates_g,sodium_mg
+MUNCHPAK MINI,16.95,,MUNCHPAK,"UBEREATS, PHOENIX, AZ",,,,,,,
+MUNCHPAK,26.95,,MUNCHPAK,"UBEREATS, PHOENIX, AZ",,,,,,,
+FAMILYPAK,46.95,,MUNCHPAK,"UBEREATS, PHOENIX, AZ",,,,,,,
+SURPRISE CANDY,3.0,,MUNCHPAK,"UBEREATS, PHOENIX, AZ",,,,,,,
+SURPRISE COOKIES,3.0,,MUNCHPAK,"UBEREATS, PHOENIX, AZ",,,,,,,
+SURPRISE CHIPS,3.0,,MUNCHPAK,"UBEREATS, PHOENIX, AZ",,,,,,,
+SURPRISE SODA,5.0,,MUNCHPAK,"UBEREATS, PHOENIX, AZ",,,,,,,

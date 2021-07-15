@@ -1,0 +1,10 @@
+name,price_usd,calories,restaurant_name,identifier,sugars_g,cholesterol_mg,protein_g,fiber_g,fat_g,carbohydrates_g,sodium_mg
+CANNOLI (3),6.5,,SACRED PI,"UBEREATS, TEMPE, AZ",,,,,,,
+BEERMISU,6.5,,SACRED PI,"UBEREATS, TEMPE, AZ",,,,,,,
+PIZZA,11.0,,SACRED PI,"UBEREATS, TEMPE, AZ",,,,,,,
+CALZONE,11.0,,SACRED PI,"UBEREATS, TEMPE, AZ",,,,,,,
+LEMONADE,3.0,,SACRED PI,"UBEREATS, TEMPE, AZ",,,,,,,
+PEPSI,3.0,,SACRED PI,"UBEREATS, TEMPE, AZ",,,,,,,
+DIET PEPSI,3.0,,SACRED PI,"UBEREATS, TEMPE, AZ",,,,,,,
+SIERRA MIST,3.0,,SACRED PI,"UBEREATS, TEMPE, AZ",,,,,,,
+DR. PEPPER,3.0,,SACRED PI,"UBEREATS, TEMPE, AZ",,,,,,,

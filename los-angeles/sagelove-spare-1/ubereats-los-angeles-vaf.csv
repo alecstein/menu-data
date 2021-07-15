@@ -1,0 +1,11 @@
+name,price_usd,calories,restaurant_name,identifier,sugars_g,cholesterol_mg,protein_g,fiber_g,fat_g,carbohydrates_g,sodium_mg
+IL BACON,13.0,,VAF,"UBEREATS, LOS ANGELES, CA",,,,,,,
+IL DIJON,14.0,,VAF,"UBEREATS, LOS ANGELES, CA",,,,,,,
+PROSCIUTTO,14.0,,VAF,"UBEREATS, LOS ANGELES, CA",,,,,,,
+IL SALAME,13.0,,VAF,"UBEREATS, LOS ANGELES, CA",,,,,,,
+TURKEY,13.0,,VAF,"UBEREATS, LOS ANGELES, CA",,,,,,,
+IL CAPRESE,11.0,,VAF,"UBEREATS, LOS ANGELES, CA",,,,,,,
+BEETS SALAD,6.0,,VAF,"UBEREATS, LOS ANGELES, CA",,,,,,,
+CAPRESE SALAD,6.0,,VAF,"UBEREATS, LOS ANGELES, CA",,,,,,,
+CAESAR SALAD,7.0,,VAF,"UBEREATS, LOS ANGELES, CA",,,,,,,
+KALE SALAD,7.0,,VAF,"UBEREATS, LOS ANGELES, CA",,,,,,,

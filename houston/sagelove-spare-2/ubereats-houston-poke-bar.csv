@@ -1,0 +1,8 @@
+name,price_usd,calories,restaurant_name,identifier,sugars_g,cholesterol_mg,protein_g,fiber_g,fat_g,carbohydrates_g,sodium_mg
+CREATE YOUR OWN (SMALL),10.95,,POKE BAR,"UBEREATS, HOUSTON, TX",,,,,,,
+CREATE YOUR OWN (MEDIUM),12.95,,POKE BAR,"UBEREATS, HOUSTON, TX",,,,,,,
+CREATE YOUR OWN (LARGE),14.95,,POKE BAR,"UBEREATS, HOUSTON, TX",,,,,,,
+WHITE RICE,2.0,,POKE BAR,"UBEREATS, HOUSTON, TX",,,,,,,
+BROWN RICE,2.0,,POKE BAR,"UBEREATS, HOUSTON, TX",,,,,,,
+SOBA NOODLE,2.0,,POKE BAR,"UBEREATS, HOUSTON, TX",,,,,,,
+SHRIMP TEMPURA (2PCS),2.5,,POKE BAR,"UBEREATS, HOUSTON, TX",,,,,,,

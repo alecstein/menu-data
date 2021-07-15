@@ -1,0 +1,7 @@
+name,price_usd,calories,restaurant_name,identifier,sugars_g,cholesterol_mg,protein_g,fiber_g,fat_g,carbohydrates_g,sodium_mg
+TRUE DOG,6.5,,TRUE DOG,"UBEREATS, HOUSTON, TX",,,,,,,
+CHEESE HEAD,6.5,,TRUE DOG,"UBEREATS, HOUSTON, TX",,,,,,,
+DANNY DOG,6.5,,TRUE DOG,"UBEREATS, HOUSTON, TX",,,,,,,
+PLAIN HOT DOG,3.0,,TRUE DOG,"UBEREATS, HOUSTON, TX",,,,,,,
+FRIES,4.0,,TRUE DOG,"UBEREATS, HOUSTON, TX",,,,,,,
+BB FRIES,10.0,,TRUE DOG,"UBEREATS, HOUSTON, TX",,,,,,,
